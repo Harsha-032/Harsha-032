@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a fullstack web developer<br>iuse django as framework
+I am a fullstack web developer
 
 
 ## 🌐 Socials:
