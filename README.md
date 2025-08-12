@@ -1,18 +1,89 @@
-# 💫 About Me:
-I am a fullstack web developer
+# Harsha C
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-c-563b38277/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsha-032&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harsha-032&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-032&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Full Stack Developer (Django) | Data Analyst | Python | SQL | JavaScript | React | Data Visualization | Predictive Modeling | Machine Learning Enthusiast**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harsha-032&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I build robust and scalable web applications using modern full stack technologies, while also transforming complex datasets into actionable insights through advanced analytics and visualization.  
+With a unique blend of software development and data analysis expertise, I create end-to-end solutions — from data collection and backend logic to interactive dashboards and predictive models — helping organizations make informed, data-driven decisions.
+
+---
+
+## Core Expertise
+
+- **Full Stack Development** → Django, Python, HTML, CSS, JavaScript, React, Bootstrap, REST APIs, PostgreSQL, MySQL  
+- **Data Analysis & Visualization** → Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Excel (VLOOKUP, Pivot Tables)  
+- **Machine Learning** → Predictive Modeling, Classification, Regression Analysis, Scikit-learn  
+- **Statistical Analysis** → Hypothesis Testing, Correlation, Data Mining  
+- **Business Intelligence** → Dashboard Development, KPI Tracking, Reporting Automation  
+
+---
+
+## Certifications
+
+- Full Stack Web Development with Django (🎓 [Your Institute Name])  
+- Machine Learning and AI Development (Karunadu Technologies)  
+- Data Analysis and Visualization (Accenture)
+
+---
+
+## Languages and Tools
+
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)
+
+---
+
+## My Workflow
+
+### **Full Stack Development Workflow**
+1. Requirement Gathering & Planning  
+2. UI/UX Design & Prototyping  
+3. Backend Development with Django  
+4. Frontend Integration (React / JavaScript / Bootstrap)  
+5. Database Design & Optimization  
+6. Testing & Debugging  
+7. Deployment & Maintenance
+
+### **Data Analysis Workflow**
+1. **Raw Data**  
+2. **Collection & Cleaning** → Handling missing data, formatting, normalization  
+3. **Exploratory Analysis** → Summary statistics, trends, anomalies  
+4. **Patterns & Insights** → Business-relevant findings  
+5. **Statistical Modeling** → Hypothesis testing, regression, classification  
+6. **Predictive Models** → Machine learning algorithms  
+7. **Validation & Refinement** → Model tuning, feedback loop  
+8. **Visualization** → Dashboards, charts, reports  
+9. **Business Recommendations & Implementation**  
+10. **Measurable Results**
+
+---
+
+## What Sets Me Apart
+
+💡 **Technical Versatility** – Expertise in both software development and data science, bridging the gap between web solutions and data insights.  
+
+🔍 **Analytical Mindset** – Methodical approach to solving problems, breaking them down into manageable steps.  
+
+🚀 **Continuous Learning** – Always exploring new technologies, frameworks, and analytical techniques.  
+
+🤝 **Collaborative Approach** – Strong communication skills, working seamlessly with cross-functional teams.  
+
+---
+
+## 📬 Connect With Me
+
+📧 **Email** – [harshac.dev@gmail.com](mailto:harshac.dev@gmail.com)  
+💼 **LinkedIn** – [Harsha C](https://linkedin.com/in/yourprofile)  
+💻 **GitHub** – [HarshaC](https://github.com/yourusername)  
+
+---
