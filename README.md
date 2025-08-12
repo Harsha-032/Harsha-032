@@ -4,6 +4,10 @@
 
 ---
 
+<div align="center">
+  <img width="25%" height="25%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+</div>
+
 ## About Me
 
 I build robust and scalable web applications using modern full stack technologies, while also transforming complex datasets into actionable insights through advanced analytics and visualization.  
