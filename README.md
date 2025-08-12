@@ -19,15 +19,6 @@ With a unique blend of software development and data analysis expertise, I creat
 - **Statistical Analysis** → Hypothesis Testing, Correlation, Data Mining  
 - **Business Intelligence** → Dashboard Development, KPI Tracking, Reporting Automation  
 
----
-
-## Certifications
-
-- Full Stack Web Development with Django (🎓 [Your Institute Name])  
-- Machine Learning and AI Development (Karunadu Technologies)  
-- Data Analysis and Visualization (Accenture)
-
----
 
 ## Languages and Tools
 
@@ -82,8 +73,8 @@ With a unique blend of software development and data analysis expertise, I creat
 
 ## 📬 Connect With Me
 
-📧 **Email** – [harshac.dev@gmail.com](mailto:harshac.dev@gmail.com)  
-💼 **LinkedIn** – [Harsha C](https://linkedin.com/in/yourprofile)  
-💻 **GitHub** – [HarshaC](https://github.com/yourusername)  
+📧 **Email** – [harshac032@gmail.com](mailto:harshac032@gmail.com)  
+💼 **LinkedIn** – [Harsha C](https://www.linkedin.com/in/harshac032/)  
+
 
 ---
