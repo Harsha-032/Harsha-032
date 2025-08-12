@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img width="25%" height="25%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+  <img width="50%" height="50%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 </div>
 
 ## About Me
