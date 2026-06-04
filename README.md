@@ -1,84 +1,111 @@
-# Harsha C
+<h1 align="center">Hi 👋, I'm Harsha C</h1>
 
-**Full Stack Developer (Django) | Data Analyst | Python | SQL | JavaScript | React | Data Visualization | Predictive Modeling | Machine Learning Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+AI-Powered+Applications;Backend+Engineering+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+</p>
 
----
-
-<div align="center">
-  <img align="right" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
-</div>
-
-## About Me
-
-I build robust and scalable web applications using modern full stack technologies, while also transforming complex datasets into actionable insights through advanced analytics and visualization.  
-With a unique blend of software development and data analysis expertise, I create end-to-end solutions — from data collection and backend logic to interactive dashboards and predictive models — helping organizations make informed, data-driven decisions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsha-032&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Harsha-032?style=for-the-badge&logo=github&label=Followers" />
+</p>
 
 ---
 
-## Core Expertise
+## 🚀 About Me
 
-- **Full Stack Development** → Django, Python, HTML, CSS, JavaScript, React, Bootstrap, REST APIs, PostgreSQL, MySQL  
-- **Data Analysis & Visualization** → Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Excel (VLOOKUP, Pivot Tables)  
-- **Machine Learning** → Predictive Modeling, Classification, Regression Analysis, Scikit-learn  
-- **Statistical Analysis** → Hypothesis Testing, Correlation, Data Mining  
-- **Business Intelligence** → Dashboard Development, KPI Tracking, Reporting Automation  
+Full Stack Developer passionate about building scalable web applications, REST APIs, and AI-powered solutions using Python, Django, React, and PostgreSQL.
 
+🔹 Building production-ready web applications
 
-## Languages and Tools
+🔹 Exploring AI, Semantic Search & OCR Systems
 
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Django](https://img.icons8.com/color/48/000000/django.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)
+🔹 Learning System Design, Docker & Cloud Technologies
+
+🔹 Open to Software Engineer & Backend Developer opportunities
 
 ---
 
-## My Workflow
+## 🛠️ Tech Stack
 
-### **Full Stack Development Workflow**
-1. Requirement Gathering & Planning  
-2. UI/UX Design & Prototyping  
-3. Backend Development with Django  
-4. Frontend Integration (React / JavaScript / Bootstrap)  
-5. Database Design & Optimization  
-6. Testing & Debugging  
-7. Deployment & Maintenance
+### Languages & Frameworks
 
-### **Data Analysis Workflow**
-1. **Raw Data**  
-2. **Collection & Cleaning** → Handling missing data, formatting, normalization  
-3. **Exploratory Analysis** → Summary statistics, trends, anomalies  
-4. **Patterns & Insights** → Business-relevant findings  
-5. **Statistical Modeling** → Hypothesis testing, regression, classification  
-6. **Predictive Models** → Machine learning algorithms  
-7. **Validation & Refinement** → Model tuning, feedback loop  
-8. **Visualization** → Dashboards, charts, reports  
-9. **Business Recommendations & Implementation**  
-10. **Measurable Results**
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### DevOps & Cloud
+
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### AI & Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+[![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsha-032&theme=github-compact)](https://github.com/Harsha-032)
 
 ---
 
-## What Sets Me Apart
+## 🏆 Core Competencies
 
-💡 **Technical Versatility** – Expertise in both software development and data science, bridging the gap between web solutions and data insights.  
+- Python Development
+- Django & Django REST Framework
+- React Development
+- REST API Development
+- PostgreSQL & Database Design
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Docker & CI/CD
+- AWS Deployment
+- Unit Testing & Debugging
+- Agile Development
+- System Design Fundamentals
 
-🔍 **Analytical Mindset** – Methodical approach to solving problems, breaking them down into manageable steps.  
+---
 
-🚀 **Continuous Learning** – Always exploring new technologies, frameworks, and analytical techniques.  
+## 🤝 Connect With Me
 
-🤝 **Collaborative Approach** – Strong communication skills, working seamlessly with cross-functional teams.  
+<p align="left">
+  <a href="mailto:harshac032@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/harshac032">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsha_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Harsha-032">
+    <img src="https://img.shields.io/badge/GitHub-Harsha--032-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📬 Connect With Me
-
-📧 **Email** – [harshac032@gmail.com](mailto:harshac032@gmail.com)  
-💼 **LinkedIn** – [Harsha C](https://www.linkedin.com/in/harshac032/)  
-
-
----
+<p align="center">
+  <i>🚀 Building scalable web applications and AI-powered solutions.</i>
+</p>
