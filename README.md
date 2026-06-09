@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+AI-Powered+Applications;Backend+Engineering+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsha-032&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Harsha-032?style=for-the-badge&logo=github&label=Followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
